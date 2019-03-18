@@ -1,0 +1,9 @@
+	
+	The Raspberry Pi is fully functional because there is an OS installed in it.
+The cables and wires are also fully functional, therefore, there is a continuous flow
+of electricity.
+
+	With the right source and correct voltage, the unit would then be functional.
+And if it's connected correctly with the devices, the Raspberry Pi will run without
+errors. The mouse and the keyboard attached or connected to it are also functional.
+Therefore, there is nothing wrong with the unit and is functioning properly, error-free.

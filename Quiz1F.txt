@@ -1,0 +1,17 @@
+Observations:
+
+	The moment we powered up the system unit;
+	-> the LED on the motherboard lit up
+	-> the  monitor didn't display anything
+	-> the fans functioned well at first
+	-> after a few seconds, the system unit/computer turned off
+	-> we think that the power supply is faulty
+
+Probable Solutions:
+	
+	-> First, there must be a problem in the power supply so check if the cables are plugged properly.
+	-> If possible, replace the power supply. If the problems persist, there might be a problem with the
+	   motherboard.
+	-> Clean the system unit, the accumulated dirt and dust might cause the fluctuation of current or any
+	   issue.
+	
